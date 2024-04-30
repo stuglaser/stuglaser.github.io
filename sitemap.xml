@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://stuglaser.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://stuglaser.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://stuglaser.github.io/blog/sensor-time/</loc>
+        <lastmod>2024-04-13</lastmod>
+    </url>
+    <url>
+        <loc>https://stuglaser.github.io/blog/why-determinism/</loc>
+        <lastmod>2024-04-30</lastmod>
+    </url>
+    <url>
+        <loc>https://stuglaser.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://stuglaser.github.io/tags/time/</loc>
+    </url>
+</urlset>
